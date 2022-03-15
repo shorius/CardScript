@@ -1,0 +1,27 @@
+{
+    "server_name-1": {
+        "host": "",
+        "host_api_key": "",
+        "url": ""
+    },
+    "server_name-2": {
+        "host": "",
+        "host_api_key": "",
+        "url": ""
+    },
+    "server_name-3": {
+        "host": "",
+        "host_api_key": "",
+        "url": ""
+    },
+    "server_name-4": {
+        "host": "",
+        "host_api_key": "",
+        "url": ""
+    },
+    "server_name-5": {
+        "host": "",
+        "host_api_key": "",
+        "url": ""
+    }
+}
