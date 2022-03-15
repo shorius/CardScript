@@ -318,7 +318,6 @@ class MainWindow(QtWidgets.QMainWindow):
                 self.textLabel_each_max.setText('手牌上限數: ' + str(count_text))
                 self.textLabel_each_max.setStyleSheet('font: bold')
 
-    # 暫時沒用到
     def current_list_item(self):
         # 列出主視窗中所有QListWidget的物件
         player_list = self.findChildren(QtWidgets.QListWidget)
