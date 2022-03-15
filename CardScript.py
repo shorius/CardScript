@@ -287,7 +287,6 @@ class MainWindow(QtWidgets.QMainWindow):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.player_gold.sizePolicy().hasHeightForWidth())
         self.player_gold.setSizePolicy(sizePolicy)
-
         layout.setSpacing(20)
 
         # 每個元件觸發的函式
